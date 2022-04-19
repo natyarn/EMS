@@ -5,5 +5,8 @@ body {font-family: 'Dancing Script', cursive; background-color: azure;}
 .texto {font-size: x-large; align-content: center;}
 .redes {font-size: x-large; color: lightslategrey; text-align: center;}
 .container {color: lightslategray;}
-#preguntas {color: black;}
-h2, h3 {color:black}
+h1 {color: lightslategray; text-align: center;}
+h2, h3 {color:lightslategray;}
+nav {font-size: xx-large; color: lightslategray; align-content: center;}
+#button {background-color: azure; color: lightslategray; font-size: x-large;}
+#navegador {color: lightslategray; ;}
