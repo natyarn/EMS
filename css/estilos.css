@@ -1,12 +1,79 @@
-* {margin: 0%}
-body {font-family: 'Dancing Script', cursive; background-color: azure;}
-.bg-mio {background-color: rgb(255, 226, 236);}
-.container-fluid {text-align: center; color: lightslategrey;}
-.texto {font-size: x-large; align-content: center;}
-.redes {font-size: x-large; color: lightslategrey; text-align: center;}
-.container {color: lightslategray;}
-h1 {color: lightslategray; text-align: center;}
-h2, h3 {color:lightslategray;}
-nav {font-size: xx-large; color: lightslategray; align-content: center;}
-#button {background-color: azure; color: lightslategray; font-size: x-large;}
-#navegador {color: lightslategray; ;}
+* {
+  margin: 0%;
+}
+
+body {
+  font-family: "Dancing Script", cursive;
+  background-color: azure;
+}
+body .container-fluid {
+  text-align: center;
+  color: lightslategray;
+}
+body .container-fluid .texto {
+  font-size: x-large;
+  align-content: center;
+}
+body nav {
+  font-size: xx-large;
+  color: lightslategray;
+  align-content: center;
+}
+body nav #navegador {
+  color: lightslategray;
+}
+body .bg-mio {
+  background-color: rgb(255, 226, 236);
+}
+
+section h1 {
+  color: lightslategray;
+  text-align: center;
+}
+section h2, section h3 {
+  color: lightslategray;
+}
+section #button {
+  background-color: azure;
+  color: lightslategray;
+  font-size: x-large;
+}
+
+.redes {
+  font-size: x-large;
+  color: lightslategrey;
+  text-align: center;
+}
+
+.container {
+  color: lightslategray;
+}
+
+main h1 {
+  color: lightslategray;
+  text-align: center;
+}
+
+p {
+  font-size: xx-large;
+  color: lightslategray;
+  text-align: center;
+}
+
+li {
+  color: lightslategray;
+}
+li span img {
+  width: 100px;
+  height: 100px;
+}
+li div span img {
+  width: 300px;
+  height: 300px;
+}
+li form {
+  font-size: x-large;
+  color: lightslategray;
+}
+
+/*# sourceMappingURL=estilos.css.map */
