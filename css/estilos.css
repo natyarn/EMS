@@ -49,6 +49,11 @@ section #button {
   color: lightslategray;
 }
 
+#imagen {
+  width: 18rem;
+  height: 18rem;
+}
+
 main h1 {
   color: lightslategray;
   text-align: center;
